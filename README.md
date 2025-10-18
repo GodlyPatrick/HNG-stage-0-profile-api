@@ -4,7 +4,7 @@ A RESTful API that returns profile information along with dynamic cat facts from
 
 ## 🚀 Live Demo
 
-**API Endpoint:** `[Your deployed URL will go here after deployment]`
+**API Endpoint:** `[https://hng-stage-0-profile-api-production-a88f.up.railway.app/me]`
 
 ## 📋 Features
 
@@ -16,10 +16,10 @@ A RESTful API that returns profile information along with dynamic cat facts from
 
 ## 🛠️ Tech Stack
 
-- **Runtime:** Node.js v22
+- **Runtime:** Node.js v22.14.0
 - **Framework:** Express.js
 - **External API:** Cat Facts API (https://catfact.ninja/fact)
-- **Deployment:** [Railway/Heroku/AWS - add after deployment]
+- **Deployment:** [Railway]
 
 ## 📦 Installation
 
