@@ -4,7 +4,7 @@ A RESTful API that returns profile information along with dynamic cat facts from
 
 ## 🚀 Live Demo
 
-**API Endpoint:** `[https://hng-stage-0-profile-api-production-a88f.up.railway.app/me]`
+**API Endpoint:** (https://hng-stage-0-profile-api-production-a88f.up.railway.app/me)
 
 ## 📋 Features
 
